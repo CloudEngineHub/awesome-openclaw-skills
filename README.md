@@ -489,7 +489,7 @@ You ship products with AI, but every launch still dies quietly because nobody po
 - [newsflash](https://clawhub.ai/zatmonkey/newsflash) - Corroborated real-time news briefings and alerts for agents.
 - [glasser](https://clawhub.ai/glasser-ai/glasser) - Search, price and run 1,000+ paid data APIs, one key.
 - [openclaw-search-skills](https://clawhub.ai/blessonism/skills/openclaw-search-skills) - Multi-source deep search with structured research reports.
-- [ask-human-expert](https://clawhub.ai/maxko87/ask-human-expert) - Ask human experts for a written answer or short call.
+- [ask-human-expert](https://clawhub.ai/maxko87/ask-human-expert) - Ask human experts for written or voice answers, or calls.
 
 > **[View all 344 skills in Search & Research →](categories/search-and-research.md)**
 </details>
