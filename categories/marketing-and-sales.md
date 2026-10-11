@@ -112,3 +112,4 @@
 - [linkedin-post-writer](https://clawhub.ai/sergebulaev/linkedin-post-writer) - LinkedIn marketing skills: viral hooks, comments, algorithm audit, humanizer.
 - [upload-post](https://clawhub.ai/victorcavero14/upload-post) - Publish and schedule social media posts through one API.
 - [breakreach](https://clawhub.ai/samuelrondot/breakreach) - Schedule and publish posts on 19 social networks.
+- [email-marketing-bible](https://clawhub.ai/cosmoblk/email-marketing-bible) - Data-backed email marketing: flows, deliverability, copy and ESP control.
